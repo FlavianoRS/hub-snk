@@ -30,7 +30,6 @@ main:has(#visualizacao-clientes:not([hidden]) .painel-aba:not([hidden]) > .equip
 }
 
 .equipe-abas {
-  padding: 0;
   margin-bottom: 18px;
   overflow-x: auto;
 }
@@ -656,7 +655,6 @@ main:has(#visualizacao-clientes:not([hidden]) .painel-aba:not([hidden]) > .equip
 }
 
 .equipe-modal {
-  width: min(480px, 94vw);
   max-height: 90vh;
   overflow-y: auto;
 }
